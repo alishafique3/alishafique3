@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💻 Currently building lightweight large language models using knowledge distillation.
 
-
+🌱 Love to make research projects, tutorials, and insightful technical blogs. [personal website][https://alishafique3.github.io/]
 
 ⚡ Fun fact: I love to travel and attend various community festivals.
 
