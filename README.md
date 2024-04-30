@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Top Skills: 
+<br>
 
 📖 Pursuing PhD in Electrical and Computer Engineering @ [Kansas State University](https://www.k-state.edu/home/).
 
