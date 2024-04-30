@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
+<br><br>
 
 📖 Pursuing PhD in Electrical and Computer Engineering @ [Kansas State University](https://www.k-state.edu/home/).
 
@@ -24,10 +24,14 @@ Here are some ideas to get you started:
 
 💻 Currently building lightweight large language models using knowledge distillation.
 
+<br>
+
 <h3 align="left">Top Skills:</h3>
 <p align="left">
   Large language models, Vision language models, Machine Learning, Parallel Computing
 </p>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
