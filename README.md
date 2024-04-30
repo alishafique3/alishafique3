@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💻 Currently building lightweight large language models using knowledge distillation.
 
-🌱 Love to make research projects, tutorials, and insightful technical blogs. [personal website](https://alishafique3.github.io/)
+🌱 Love to make research projects, tutorials, and insightful technical blogs. [Personal website](https://alishafique3.github.io/)
 
 ⚡ Fun fact: I love to travel and attend various community festivals.
 
@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto: alishafique3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://alishafique3.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personel Website"></a>
 <a href="https://www.linkedin.com/in/alishafique3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@alishafique3"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   
