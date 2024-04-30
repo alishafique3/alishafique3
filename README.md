@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 💻 Currently building lightweight large language models using knowledge distillation.
 
+⚡ Fun fact: I love to travel and attend various community festivals.
+
 <br>
 
 <h3 align="left">Top Skills:</h3>
