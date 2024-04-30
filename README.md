@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
+
 - 📖 Pursuing PhD in Electrical and Computer Engineering @ [Kansas State University](https://www.k-state.edu/home/).
 
 - 🎓 Research areas include large language and vision language models @ the [ISCAAS Lab](https://people.cs.ksu.edu/~amunir/lab/).
