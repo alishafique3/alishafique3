@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Muhammad Ali Shafique</h1>
-<h3 align="center">A passionate researcher in Generative AI</h3>
+<h1>Hi 👋, I'm Muhammad Ali Shafique</h1>
+<h3>A passionate researcher in Generative AI</h3>
 
 <!--
 **alishafique3/alishafique3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
