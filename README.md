@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📖 Pursuing PhD in Electrical and Computer Engineering @ Kansas State University.
+
+- 🎓 Research areas include large language and vision language models @ the ISCAAS Lab.
+
+- 💻 Currently building lightweight large language models using knowledge distillation.
+
