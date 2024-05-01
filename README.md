@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Muhammad Ali Shafique</h1>
+<!--<h1>Hi 👋, I'm Muhammad Ali Shafique</h1>-->
 <h3>A passionate researcher in machine learning with a focus on large language and vision language models.</h3>
 
 <!--
