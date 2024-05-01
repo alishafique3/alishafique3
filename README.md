@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 <br>
+<!--
+🎓 Pursuing PhD in Electrical and Computer Engineering @ the [Kansas State University](https://www.k-state.edu/home/). -->
 
-🎓 Pursuing PhD in Electrical and Computer Engineering @ the [Kansas State University](https://www.k-state.edu/home/).
-
-📖 Research area includes large language and vision language models @ the [ISCAAS Lab](https://people.cs.ksu.edu/~amunir/lab/).
+📖 Graduate research assistant @ the [ISCAAS Lab](https://people.cs.ksu.edu/~amunir/lab/).
 
 💻 Currently building lightweight large language models using knowledge distillation.
 
