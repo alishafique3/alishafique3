@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I love to travel and attend various community festivals.
 
-<br>
+
 
 <h3 align="left">Top Skills:</h3>
 <p align="left">
   Large language models, Vision language models, Machine Learning, MLOps, Parallel Computing
 </p>
 
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
