@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Muhammad Ali Shafique</h1>
-<h3>A passionate researcher in Generative AI</h3>
+<h3>A passionate researcher in Machine learning with a focus on large language and vision language models</h3>
 
 <!--
 **alishafique3/alishafique3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <br>
 
-🎓 Pursuing PhD in Electrical and Computer Engineering @ [Kansas State University](https://www.k-state.edu/home/).
-
-📖 Research area includes large language and vision language models @ the [ISCAAS Lab](https://people.cs.ksu.edu/~amunir/lab/).
+🎓 Pursuing PhD in Electrical and Computer Engineering @ the [ISCAAS Lab](https://people.cs.ksu.edu/~amunir/lab/) in [Kansas State University](https://www.k-state.edu/home/).
+<!--
+📖 Research area includes large language and vision language models @ the [ISCAAS Lab](https://people.cs.ksu.edu/~amunir/lab/). -->
 
 💻 Currently building lightweight large language models using knowledge distillation.
 
