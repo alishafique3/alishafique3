@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📖 Graduate research assistant @ the [ISCAAS Lab](https://people.cs.ksu.edu/~amunir/lab/).
 
-💻 Currently building lightweight large language models using knowledge distillation.
+💻 Currently developing lightweight large language models using knowledge distillation.
 
 🌱 Love to make research projects, tutorials, and insightful technical blogs. [Personal website](https://alishafique3.github.io/)
 
