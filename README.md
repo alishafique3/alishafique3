@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Muhammad Ali Shafique</h1>
-<h3>A passionate researcher in Machine learning with a focus on large language and vision language models</h3>
+Hi 👋, <h1>I'm Muhammad Ali Shafique</h1>
+<h3>A passionate researcher in machine learning with a focus on large language and vision language models.</h3>
 
 <!--
 **alishafique3/alishafique3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
