@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
 <!--
 🎓 Pursuing PhD in Electrical and Computer Engineering @ the [Kansas State University](https://www.k-state.edu/home/). -->
 
