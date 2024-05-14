@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<!--
-🎓 Pursuing PhD in Electrical and Computer Engineering @ the [Kansas State University](https://www.k-state.edu/home/). -->
+
+🎓 Pursuing PhD in Electrical and Computer Engineering @ the [Kansas State University](https://www.k-state.edu/home/).
 
 📖 Graduate research assistant @ the [ISCAAS Lab](https://people.cs.ksu.edu/~amunir/lab/).
 
