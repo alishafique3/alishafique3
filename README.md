@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I love to travel and attend various community festivals.
 
-![icons1](https://github.com/alishafique3/alishafique3/assets/17300597/f2968c3f-918f-47c6-a3ad-5491d839800b)
 <!-- <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py,cpp,docker,git" /> -->
 
 <h3 align="left">Technical Skills:</h3>
@@ -35,12 +34,12 @@ Here are some ideas to get you started:
 <!-- <p align="left">
   Large language models, Vision language models, Machine Learning, LMOps, Parallel Computing
 </p> -->
-<!--
+
 <p>
   <a href="https://skillicons.dev">
-    <img src=icons1 />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py,cpp,docker,git" />
   </a>
-</p> -->
+</p>
 
 
 
