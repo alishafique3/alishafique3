@@ -1,5 +1,5 @@
 <!--<h1>Hi 👋, I'm Muhammad Ali Shafique</h1>-->
-A passionate researcher in efficient machine learning with a focus on large language, vision language models, machine learning, mlops, and parallel computing.
+A passionate researcher in efficient machine learning design with a focus on large language, vision language models, machine learning, mlops, and parallel computing.
 
 <!--
 **alishafique3/alishafique3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
