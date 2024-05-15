@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">My Skills:</h3>
+<h3 align="left">Technical Skills:</h3>
 <!-- <p align="left">
   Large language models, Vision language models, Machine Learning, LMOps, Parallel Computing
 </p> -->
