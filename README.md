@@ -1,5 +1,5 @@
 <!--<h1>Hi 👋, I'm Muhammad Ali Shafique</h1>-->
-<h5>A passionate researcher in efficient machine learning with a focus on large language, vision language models, machine learning, mlops, and parallel computing.</h5>
+A passionate researcher in efficient machine learning with a focus on large language, vision language models, machine learning, mlops, and parallel computing.
 
 <!--
 **alishafique3/alishafique3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,py,cpp,docker,git" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py,cpp,docker,git" />
   </a>
 </p>
 
