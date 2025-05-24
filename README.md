@@ -1,5 +1,5 @@
 <!--<h1>Hi 👋, I'm Muhammad Ali Shafique</h1>-->
-A passionate researcher in efficient machine learning design with a focus on large language models (text, vision), classical machine learning, mlops, and parallel computing.
+A passionate researcher and developer in efficient LLMs with research focuses on LLMs for HPC, LLMs deployment, and Agents.
 
 <!--
 **alishafique3/alishafique3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 <br>
 
-🎓 Pursuing PhD in Electrical and Computer Engineering @ the [Kansas State University](https://www.k-state.edu/home/).
+🎓 PhD Candidate in Electrical and Computer Engineering @ the [Kansas State University](https://www.k-state.edu/home/).
 
 📖 Graduate research assistant @ the [ISCAAS Lab](https://people.cs.ksu.edu/~amunir/lab/).
 
 💻 Currently developing lightweight large language models using knowledge distillation.
 
-🌱 Love to make research projects, tutorials, and insightful technical blogs. [Personal website](https://alishafique3.github.io/)
+🌱 Love to make research projects, tutorials, and insightful technical blogs.
 
 ⚡ Fun fact: I love to travel and attend various community festivals.
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py,cpp,docker,git" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,gcp,py,cpp,docker,git" />
   </a>
 </p>
 
