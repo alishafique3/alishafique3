@@ -1,5 +1,5 @@
 <!--<h1>Hi 👋, I'm Muhammad Ali Shafique</h1>-->
-A passionate researcher and developer in efficient LLMs with research focuses on LLMs for HPC, LLMs deployment, and Agents.
+A passionate researcher and developer in efficient LLMs for HPC, LLMs deployment, and Agents.
 
 <!--
 **alishafique3/alishafique3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
