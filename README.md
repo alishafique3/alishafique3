@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,aws,gcp,kubernetes,py,cpp,docker,git" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,aws,gcp,py,cpp,docker,git" />
   </a>
 </p>
 
